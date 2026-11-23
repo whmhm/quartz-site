@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到我的知识库
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+这里是公开笔记的入口页面。
+
+发布规则：只有 `obsidian-vault/public/` 目录中的内容会被同步到 Quartz 站点，其他目录的笔记始终保留在私有仓库中。
